@@ -1,0 +1,5 @@
+requests==2.24.0
+beautifulsoup4==4.9.3
+soupsieve==2.0.1
+fake-useragent==0.1.11
+sqlite3==3.31.1
